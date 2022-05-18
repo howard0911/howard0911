@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Howard @howard0911
--  graduated from National Taiwan University majoring in mathematics. Now I am a MS Statistics student at the University of Chicago. 
+- 👋 Hi, I’m Howard @howard0911, I graduated from National Taiwan University majoring in mathematics. Now I am a MS Statistics student at the University of Chicago. 
 - 👀 I’m interested in statistics, econometrics, quantitative finance, and data analysis.
-- 🌱 I’m currently learning the programming skills and the theoratical knowledge.
+- 🌱 I’m currently learning the programming skills and the theoratical knowledge. 
 <!-- - 💞️ I’m looking to collaborate on ... --->
 <!-- - 📫 How to reach me ... ---> 
 
