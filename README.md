@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistics, econometrics, quantitative finance, and data analysis.
 - 🌱 I’m currently learning the programming skills and the theoratical knowledge. 
 - 💞️ I put my code with some projects and math problems
-- 📫 Here's my personal website: howard0911.github.io. Feel free to reach me.
+- 📫 Here's my personal website: <a href="howard0911.github.io">howard0911</a>. Feel free to reach me.
 
 <!---
 howard0911/howard0911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
