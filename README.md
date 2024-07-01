@@ -4,7 +4,8 @@
 - 💞️ I put my code with some projects and math problems
 - 📫 Here's my personal website: <a href="https://howard0911.github.io">howard0911</a>. Feel free to reach me.
 
-[![Leetcode Stats][https://leetcard.jacoblin.cool/howardpeng911]](https://leetcode.com/u/howardpeng911/))
+![](https://leetcard.jacoblin.cool/howardpeng911?ext=activity)
+![](https://leetcard.jacoblin.cool/howardpeng911?lapor?ext=heatmap)
 
 <!---
 howard0911/howard0911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
