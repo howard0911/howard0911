@@ -4,7 +4,6 @@
 - 💞️ I put my code with some projects and math problems
 - 📫 Here's my personal website: <a href="https://howard0911.github.io">howard0911</a>. Feel free to reach me.
 
-![](https://leetcard.jacoblin.cool/howardpeng911?ext=activity)
 ![](https://leetcard.jacoblin.cool/howardpeng911?lapor?ext=heatmap)
 
 <!---
