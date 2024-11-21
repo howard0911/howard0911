@@ -1,8 +1,9 @@
 ## 👋 Hi, I’m Howard @howard0911. 
-- I'm a recent graduate of the University of Chicago with a Master's degree in Statistics. Previously, I completed my undergraduate studies in Mathematics at National Taiwan University. 
-- I’m interested in statistics, data science, quantitative finance, machine learning, and econometrics.
-- I’m currently learning programming skills and theoretical knowledge. 
-- I put my code with some projects and math problems.
+- Currently solving data puzzles in Chicago as a Data Analyst.
+- I recently graduated from the University of Chicago with a Master's degree in Statistics. Before that, I tackled Math at the National Taiwan University.
+- I'm into statistics, data science, quantitative finance, machine learning, and econometrics—basically, anything that involves numbers and insights.
+- Right now, I'm sharpening my programming skills and deepening my theoretical understanding.
+- I enjoy putting my code to work on projects and math challenges.
 - Here's my personal website: <a href="https://howard0911.github.io">howard0911</a>. Feel free to reach me.
   
 ### Technical Skills:
