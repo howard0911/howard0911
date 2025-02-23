@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Howard @howard0911. 
 - I'm currently a Data Analyst in the Chicago area.
-- I recently graduated from the University of Chicago with a Master's degree in Statistics. Previously, I completed my undergraduate studies in Mathematics at National Taiwan University. 
+- I graduated from the University of Chicago with a Master's degree in Statistics. Previously, I completed my undergraduate studies in Mathematics at National Taiwan University. 
 - I'm into statistics, data science, quantitative finance, machine learning, and econometrics—basically, anything that involves numbers and insights.
 - Right now, I'm sharpening my programming skills and deepening my theoretical understanding.
 - I enjoy putting my code to work on projects and math challenges.
