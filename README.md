@@ -10,13 +10,10 @@ I ship products that sit at the intersection of **data, finance, and user experi
 
 ## Technical Toolkit
 
-**Languages:** Python (NumPy · Pandas · Scikit-Learn · PyTorch · TensorFlow · PySpark) · R · SQL
-
-**Analytics & ML:** A/B Testing · Causal Inference · Bayesian Modeling · Time Series · NLP · LLM
-
-**Data & Visualization:** Tableau · Power BI · GCP (BigQuery) · Excel
-
-**Other:** Git · Jupyter · MATLAB · Stata · Blockchain
+- **Languages:** Python (NumPy · Pandas · Scikit-Learn · PyTorch · TensorFlow · PySpark) · R · SQL
+- **Analytics & ML:** A/B Testing · Causal Inference · Bayesian Modeling · Time Series · NLP · LLM
+- **Data & Visualization:** Tableau · Power BI · GCP (BigQuery) · Excel
+- **Other:** Git · Jupyter · MATLAB · Stata · Blockchain
 
 ## Currently
 
