@@ -1,17 +1,32 @@
-## 👋 Hi, I’m Howard @howard0911. 
-- I'm currently a Data Analyst in the Chicago area.
-- I graduated from the University of Chicago with a Master's degree in Statistics. Previously, I completed my undergraduate studies in Mathematics at National Taiwan University. 
-- I'm into statistics, data science, quantitative finance, machine learning, and econometrics—basically, anything that involves numbers and insights.
-- Right now, I'm sharpening my programming skills and deepening my theoretical understanding.
-- I enjoy putting my code to work on projects and math challenges.
-- Here's my personal website: <a href="https://howard0911.github.io">howard0911</a>. Feel free to reach me.
-  
-### Technical Skills:
-- **_Programming Languages:_** Python (NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark), R, SQL
-- **_Softwares:_** Stata, MATLAB
-- **_Statistics & Machine Learning:_** Time Series, Regression, Classification, Clustering, A/B Testing, Bayesian Modeling, Neural Networks, Natural Language Processing, Large Language Model, Causal Inference
-- **_Data Visualization:_** Tableau, PowerBI, MS Excel
-- **_Other Tools:_** Git, Jupyter, GCP (Big Query), Blockchain
+# Hi, I'm Howard 👋
+
+**Product Owner** building fintech platforms in Chicago — turning data into product decisions.
+
+I bring a quantitative edge to product work. With a **MS in Statistics from UChicago** and a **BS in Mathematics from National Taiwan University**, I bridge the gap between technical teams and business outcomes.
+
+## What I Do
+
+I ship products that sit at the intersection of **data, finance, and user experience**. My background in statistics and ML means I don't just write PRs — I read the model behind them.
+
+## Technical Toolkit
+
+**Languages:** Python (NumPy · Pandas · Scikit-Learn · PyTorch · TensorFlow · PySpark) · R · SQL
+
+**Analytics & ML:** A/B Testing · Causal Inference · Bayesian Modeling · Time Series · NLP · LLM
+
+**Data & Visualization:** Tableau · Power BI · GCP (BigQuery) · Excel
+
+**Other:** Git · Jupyter · MATLAB · Stata · Blockchain
+
+## Currently
+
+- 🔨 Building fintech products from 0→1
+- 📐 Sharpening applied ML & econometrics chops
+- 🧪 Side projects that put theory into practice
+
+## Let's Connect
+
+🌐 [howard0911.github.io](https://howard0911.github.io)
   
 ### Leetcode Dashboard:
 ![](https://leetcard.jacoblin.cool/howardpeng911?ext=heatmap)
