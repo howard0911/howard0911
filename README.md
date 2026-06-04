@@ -1,12 +1,10 @@
 # Hi, I'm Howard 👋
 
-**Product Owner** building fintech platforms in Chicago — turning data into product decisions.
-
-I bring a quantitative edge to product work. With a **MS in Statistics from UChicago** and a **BS in Mathematics from National Taiwan University**, I bridge the gap between technical teams and business outcomes.
+I'm Howard (Sheng-Hau) Peng, a data-driven product manager who owns end-to-end platform products in fintech industry in Chicago. My work focuses on owning complex financial systems, transforming manual workflows into scalable, automated platforms, and turning data and AI capabilities into real operational and product impact.
 
 ## What I Do
 
-I ship products that sit at the intersection of **data, finance, and user experience**. My background in statistics and ML means I don't just write PRs — I read the model behind them.
+I ship products that sit at the intersection of **data, finance, and user experience**.
 
 ## Technical Toolkit
 
